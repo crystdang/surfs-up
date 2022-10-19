@@ -24,5 +24,10 @@ The purpose of this analysis was to convince the the investor, W.Avy, that the s
 
 ### Summary: 
 
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
+The produced data provides a very high level view of the temperatures of the two months that are in the middle of the two seasons in Hawaii, June in the summer and December in the winter. This may not be enough data for the investor to make an informed decision.
 
+##Additional Possible Queries:
+
+1. As the provided data may come back with more questions then answers, visualizing the used data can help support distilled information. A query that defines the years used on a scatter plot with different colours defining the two months can help the investor confirm there is a good range of data.
+
+2. Considering that there are 183 more data points in June than December, a query to confirm no dates of each month is missing and skewing the data.
